@@ -1,6 +1,6 @@
 # Aldo Seffrin, PhD
 
-Data Scientist no SESI-SP, pesquisador em Fisiologia do Exercício e entusiasta de tecnologia aplicada ao desempenho humano. Minha atuação foca na intersecção entre Ciência do Esporte, análise de dados e saúde.
+Cientista do Esporte e Analista de Dados no SESI-SP, pesquisador em Fisiologia do Exercício e entusiasta de tecnologia aplicada ao desempenho humano. Minha atuação foca na intersecção entre Ciência do Esporte, análise de dados e saúde.
 
 ## Sobre Mim
 
