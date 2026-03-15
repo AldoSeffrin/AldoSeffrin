@@ -6,7 +6,7 @@ Cientista do Esporte e Analista de Dados no SESI-SP, pesquisador em Fisiologia d
 
 - 🎓 **PhD** pela Universidade Federal de São Paulo (UNIFESP).
 - 📊 **Data Scientist** no SESI-SP, atuando no projeto @InteligenciaEsportiva.
-- 🧪 **Fundador** da @SportsScienceNO2, focada em performance e ciência aplicada.
+- 🧪 **Fundador** da @Nova-O2, focada em performance e ciência aplicada.
 - 🏃‍♂️ Especialista em Fisiologia do Exercício, Medicina Esportiva e Testes de Esforço.
 
 ## Produção Científica e Conexões
